@@ -332,7 +332,7 @@
 				resultImg.appendChild(img);
 
 				printResult.innerText = "The Only Child";
-				details.innerText = "96. Meissen, Germany. 1735";
+				details.innerText = "94. Meissen, Germany. 1735";
 				description.innerText = "You have redefined the meaning of meaning of only child. You are mummy's little meatball. In your past life, you were the dog of a 20 year old who truly believed that they birthed you, and your days were filled with overbearing hugs.";
 				break;
 				
@@ -381,7 +381,7 @@
 					resultImg.appendChild(img);
 
 				printResult.innerText = "The 365 Party Girl";
-				details.innerText = "26. Frankenthal, Germany. 1700-1800";
+				details.innerText = "106. Frankenthal, Germany. 1700-1800";
 				description.innerText = "If music be the food of love, play on, for you are the hedonist, the 365 party girl! All the bards in the land want your digits, you are the talk of the town.";
 				break;
         
@@ -406,7 +406,7 @@
 					resultImg.appendChild(img);
 
 				printResult.innerText = "The Elusive";
-				details.innerText = "41.Porcelain. Meissen, Germany. 1750.";
+				details.innerText = "41. Porcelain. Meissen, Germany. 1750.";
 				description.innerText = "You are the elusive, the fly on the wall. So much more can be learned through observation than participation. Often found in a nook, cranny, bush, or the dark, you prefer to be neither seen nor heard, but to always be... present.";
 				break;
         
